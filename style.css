@@ -1,0 +1,97 @@
+
+	#I5ab2882f954b480abe7e10d3c0c0110a{
+     	padding: 0 4rem; 
+    }
+
+	#I15335f6db7334559b4a6ca9d697869a2_sys_txt{
+    	padding: 0 4rem;
+    }
+
+	#Id4eb23debe9843bdb2ffcae6deac3b31_sys_txt{
+    	padding: 0 4rem;
+    }
+
+	#yola-panel-I2300d017a3c74e62af4166f501f78a66{
+    	margin: 0 8rem;
+        padding: 0 8rem;
+    }
+
+	#Ia6860119c36b4d31ab8fa8b1bbd5cccb, #I38e0fa02b6b84ac1bc93fc5db8730777{
+		padding: 0 10rem;
+	}
+
+	#Ib7de20a3f96a47f39ae16b92679f654b{
+     	padding: 0 6rem; 
+    }
+
+	#If550e2de1c554ea588328e52b3ee9188{
+      	padding: 0 8rem;
+    }
+
+	#I75f9cde5ddbb4090a577c564ee50b727{
+      	padding: 0 8rem;
+    }
+
+	.Layout1_Default{
+      margin-bottom: 0.5rem;
+    }
+
+@media only screen and (max-width: 600px){
+
+  	#yola_heading_block{
+      display: none
+    }
+  
+ 	 ##Left_I93ec4e599ab6452e8f1db547c6092048{
+      display: none
+    }
+  
+  	#Ia6860119c36b4d31ab8fa8b1bbd5cccb, #I38e0fa02b6b84ac1bc93fc5db8730777{
+		padding: 0 2rem;
+	}
+  
+  	#yola-panel-I2300d017a3c74e62af4166f501f78a66{
+    	margin: 0 2rem;
+        padding: 0 2rem;
+    }
+  
+  	#I5ab2882f954b480abe7e10d3c0c0110a{
+     	padding: 0 2rem; 
+    }
+
+	#I15335f6db7334559b4a6ca9d697869a2_sys_txt{
+    	padding: 0 2rem;
+    }
+
+	#Id4eb23debe9843bdb2ffcae6deac3b31_sys_txt{
+    	padding: 0 2rem;
+    }
+  	#yola_heading_block{
+    	text-align: center;
+    }
+  	#Ib7de20a3f96a47f39ae16b92679f654b{
+     	padding: 0 2rem; 
+    }
+  	#If550e2de1c554ea588328e52b3ee9188{
+      	padding: 0 2rem;
+    }
+	#I75f9cde5ddbb4090a577c564ee50b727{
+      	padding: 0 2rem;
+    }
+	  
+  	.right{
+    	text-align: center;
+      	margin: 0 auto;
+  	}
+  
+  .Layout1_Default{
+      margin-bottom: 0;
+    }
+
+}
+
+  
+.yola_outer_heading_wrap {
+   width:100%;
+   text-align: right;
+}
